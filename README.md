@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @El-Keys
+- 👋 Hi, I’m @El-Praise
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Javascript projects
-- 📫 How to reach me elpraise@gmail.com
+- 📫 How to reach me elpraise20@gmail.com
 
 <!---
 El-Keys/El-Keys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
