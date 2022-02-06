@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @El-Praise
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node and Express
 - 💞️ I’m looking to collaborate on Javascript projects
 - 📫 How to reach me elpraise20@gmail.com
 
